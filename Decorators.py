@@ -27,3 +27,5 @@ def return_prod(numbers):
 lst = [1, 2, 3, 4]
 print(return_sum(lst))
 print(return_prod(lst))
+
+print("test print to be deleted")
