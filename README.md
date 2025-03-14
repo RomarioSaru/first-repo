@@ -1,1 +1,3 @@
 smth
+
+Added new lines
